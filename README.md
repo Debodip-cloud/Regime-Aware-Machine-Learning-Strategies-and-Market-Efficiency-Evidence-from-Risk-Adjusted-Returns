@@ -1,3 +1,4 @@
+![License](https://img.shields.io/badge/license-Proprietary-blue)
 📊 Regime-Aware Portfolio Modeling and Performance Analysis
 
 This repository contains the Jupyter notebook and supporting materials for a regime-aware financial modeling project. The project investigates how different market regimes affect portfolio performance and evaluates risk-adjusted returns using XGBoost-based allocation strategies.
