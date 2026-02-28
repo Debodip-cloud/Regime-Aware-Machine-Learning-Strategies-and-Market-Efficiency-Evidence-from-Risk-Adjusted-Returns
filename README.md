@@ -37,23 +37,6 @@ Downside and upside deviations
 
 Sensitivity to regime scaling
 
-All results are reported to three decimal places for clarity and consistency with publication standards.
-
-📈 Output Example
-
-Tables are automatically formatted for LaTeX export, for example:
-
-0.10 & 1.0 & 0.6 & 0.4 & 0.730 & 0.875 & -0.084 & 0.725 & 0.880 & -0.073 & 0.796 & 0.980 & -0.339 \\
-
-This enables easy integration into:
-
-Research papers
-
-Conference presentations
-
-Technical reports
-
-Thesis documentation
 
 🚀 How to Run the Notebook
 
